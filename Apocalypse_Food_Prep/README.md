@@ -1,0 +1,1 @@
+Apocalypse Food Prep is a data analysis project where a dataset is analyzed to figure out that buying items from which store is most profitable during an apocalypse. The tools used to complete this project are Microsoft Excel and PowerBI. 
