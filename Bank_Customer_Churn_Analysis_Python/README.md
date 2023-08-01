@@ -1,0 +1,1 @@
+This project uses Python to investigate and gain insights into the major factors impacting the bank's customer churn rate. Subsequently, the study aims to provide recommendations to the bank, facilitating a reduced churn rate and improving customer retention.
